@@ -1,8 +1,8 @@
 # Validation Library
 
-Link to landing page: https://aqueous-garden-96512.herokuapp.com/examples.html
+Link to landing page: https://validationlibrary.onrender.com/examples.html
 
-Link to documentation page: https://aqueous-garden-96512.herokuapp.com/documentation.html
+Link to documentation page: https://validationlibrary.onrender.com/documentation.html
 
 <h1 align="center">Table of Contents</h1>
 
